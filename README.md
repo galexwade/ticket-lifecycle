@@ -29,26 +29,40 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<!--- Step 1 -->
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In this section we're going to create some tickets as if we were the end user (Ken or Karen) and then we're going to recieve the tickets as the Help Desk Professional and then set ticket properties to these tickets.
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open a new tab in Microsoft Edge, and use this link: http://localhost/osTicket/. Now use the information for the first user you create (I'm using Karen's) and then select Business Critical Outage as the help topic. Then give a generic issue title/summary and then create the ticket. We're going to do the same thing for the other user (I'm using Ken) and then select Personal Computer Issues, and then give a generic issue title/summary.
+</p>
+
+<p>
+<img src="https://i.imgur.com/3wZhjSt.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
+<!--- Step 2 -->
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next, we're going to login to osTicket as the Help Desk Professional. Use this link to access the portal and log in as Jane Doe: http://localhost/osTicket/scp/login.php
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
+<!--- Step 3 -->
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <br />
+
