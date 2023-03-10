@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -49,20 +45,20 @@ Next, we're going to login to osTicket as the Help Desk Professional. Use this l
 </p>
 
 <p>
-
+Now we're going to observe these tickets. Click on the mobile banking ticket by karen. Here we can see the different ticket properties that are available to change. We're going to specifically focus on "Priority" and "Assigned To" properties of this ticket. In a real scenario, based on the SLAs of your business, you may assign this ticket as Emergency considering the entire banking application is down. Since this could be business impacting and critical, we might want to set the SLA to SEV-A.
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/gmaxDMW.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
 <!--- Step 3 -->
 <p>
-
+Agents are able to see live tickets in the agent panel. Managers will assign tickets to agents and assign priority levels of tickets depending on the SLAs of the business.
 </p>
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/GmGBGJs.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
